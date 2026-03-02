@@ -9,7 +9,7 @@ export default function Footer() {
     {
       Icon: FaLinkedin,
       label: "LinkedIn",
-      href: "https://www.linkedin.com/in/kokkanti-brahmeswar-reddy-67b91025b/",
+      href: "https://www.linkedin.com/in/kokkanti-brahmeswar-reddy-0b85971b3/",
     },
     {
       Icon: FaWhatsapp,
