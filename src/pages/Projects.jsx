@@ -63,7 +63,7 @@ export default function Projects() {
   return (
     <section
       id="projects"
-      className="w-full relative bg-black text-white overflow-hidden lg:py-24 py-12 px-6 md:px-10 lg:px-12"
+      className="w-full relative bg-black text-white overflow-hidden lg:py-24 py-16 px-6 md:px-10 lg:px-12"
     >
       <div className="absolute inset-0 pointer-events-none">
         <div className="absolute -top-10 -left-10 w-90 h-90 opacity-20 blur-[120px] rounded-full bg-gradient-to-r from-[#302b63] via-[#37053c] to-[#692097] animate-pulse" />
